@@ -23,6 +23,23 @@
        "location": "Marsaxlokk",
        "date": "1st of Mar",
        "time": "12:00"
+    },    
+    {
+       "id": 4,
+       "title": "Task 4",
+       "description": "Description for Task 4",
+       "location": "Dingli",
+       "date": "31st of Mar",
+       "time": "12:00"
+    },    
+    {
+       "id": 3,
+       "title": "Task 5",
+       "description": "Description for Task 5",
+       "location": "Rabat",
+       "date": "1st of May",
+       "time": "21:00"
     }
+    
   ]
 }
